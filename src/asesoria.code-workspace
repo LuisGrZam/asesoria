@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../pruebita"
+		},
+		{
+			"name": "blink_02",
+			"path": "../../blink_02"
+		},
+		{
+			"name": "Asesoria",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
